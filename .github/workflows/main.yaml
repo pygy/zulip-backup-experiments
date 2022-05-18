@@ -2,8 +2,6 @@
 #   schedule:
 #    - cron: '0/20 * * * *'
 
-# anoother attempt
-
 on:
   - push
 
