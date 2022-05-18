@@ -21,4 +21,4 @@ jobs:
         zulip_bot_key: ${{ secrets.zulip_bot_key }}
         github_personal_access_token: ${{ secrets.gh_personal_access_token }}
         delete_history: true
-        branch: gh-pages
+        archive_branch: gh-pages
